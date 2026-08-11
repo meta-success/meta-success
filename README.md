@@ -78,6 +78,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/meta-success/profile/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/meta-success/meta-success/output/snake.svg" alt="Snake animation" />
 
 ###
